@@ -16,7 +16,7 @@
 - [Project Overview](#-project-overview)
 - [Problem Statement](#-problem-statement)
 - [Solution](#-solution)
-- [Technical Architecture](#️-technical-architecture)
+- [Technical Architecture](#-technical-architecture)
 - [Quick Start Guide](#-quick-start-guide)
 - [Usage Examples](#-usage-examples)
 - [Features in Detail](#-features-in-detail)
@@ -158,10 +158,10 @@ Job Fit Analyzer leverages Google's Gemini AI to provide comprehensive resume an
 
 #### Libraries & Dependencies
 ```python
-google-generativeai  # LLM API integration
-re                   # Text preprocessing and cleaning
-json                 # Response parsing and validation
-google.colab         # Colab-specific utilities (userdata for secrets)
+google-generativeai  # LLM API integration (requires installation)
+re                   # Text preprocessing and cleaning (Python built-in)
+json                 # Response parsing and validation (Python built-in)
+# Note: google.colab is pre-installed in the Colab environment
 ```
 
 #### Architecture Patterns
@@ -511,9 +511,9 @@ Have a feature idea? [Open an issue](https://github.com/Umesh-chandra-2006/Job-F
 
 ### Getting More Help
 
-- **📧 Email**: Create an issue on GitHub
+- **🐛 Issues**: Create an issue on GitHub for bugs or problems
 - **💬 Discussions**: Use GitHub Discussions for questions
-- **🐛 Bug Reports**: Open a detailed issue with error messages
+- **📋 Bug Reports**: Open a detailed issue with error messages and reproduction steps
 - **📖 Documentation**: Re-read the Quick Start Guide
 
 ---
