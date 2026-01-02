@@ -13,18 +13,18 @@
 ---
 
 ## 📖 Table of Contents
-- [Project Overview](#-project-overview)
-- [Problem Statement](#-problem-statement)
-- [Solution](#-solution)
-- [Technical Architecture](#-technical-architecture)
-- [Quick Start Guide](#-quick-start-guide)
-- [Usage Examples](#-usage-examples)
-- [Features in Detail](#-features-in-detail)
-- [Testing Checklist](#-testing-checklist)
-- [Future Enhancements](#-future-enhancements)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Solution](#solution)
+- [Technical Architecture](#technical-architecture)
+- [Quick Start Guide](#quick-start-guide)
+- [Usage Examples](#usage-examples)
+- [Features in Detail](#features-in-detail)
+- [Testing Checklist](#testing-checklist)
+- [Future Enhancements](#future-enhancements)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
